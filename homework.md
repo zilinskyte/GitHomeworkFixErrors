@@ -24,4 +24,4 @@ It makes a local copy onto your device
 
 ## 6. What is a Pull Request?
 
-When you request your locally edited code to be merged into the original repository so chnages can be reviews before becoming part of a project.
+When you request your locally edited code to be merged into the original repository so changes can be reviewed before becoming part of a project.
